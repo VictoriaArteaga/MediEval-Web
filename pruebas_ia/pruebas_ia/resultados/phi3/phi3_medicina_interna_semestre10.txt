@@ -1,0 +1,62 @@
+﻿MODELO: phi3
+PROMPT: medicina_interna_semestre10
+TIEMPO (segundos): 120.33
+
+===== RESPUESTA =====
+```json
+
+{
+
+  "titulo": "Caso del paciente con hipertensiÃ³n y diabetes mellitus",
+
+  "especialidad": "Medicina Interna",
+
+  "semestreAcademico": 10,
+
+  "dificultad": "ALTA",
+
+  "descripcion": "Este caso presentarÃ¡ a un paciente con un historial de hi[2D[K
+hipertensiÃ³n mal controlada y diabetes mellitus tipo 2, que requiere un enf[3D[K
+enfoque integrador y multidisciplinario para su manejo.",
+
+  "objetivoClinico": "Identificar y gestionar las complicaciones metabÃ³lica[10D[K
+metabÃ³licas secundarias y tratar el hipertensiÃ³n en un paciente con diabete[7D[K
+diabetes mellitus, manteniendo la calidad de vida del paciente como princip[7D[K
+principal prioridad.",
+
+  "anamnesis": "El paciente es un hombre de 55 aÃ±os con un historial de hip[3D[K
+hipertensiÃ³n diagnosticada hace 10 aÃ±os y diabetes mellitus tipo 2 diagnost[8D[K
+diagnosticada hace 5 aÃ±os. Ha tomado metformina y insulina, pero su nivel d[1D[K
+de glucosa en sangre sigue siendo elevado. Admite no mantener un rÃ©gimen di[2D[K
+dietetico constante y esfuerzos para bajar de peso.",
+
+  "llanzo": ["HipertensiÃ³n mal controlada", "Diabetes mellitus tipo 2 subop[5D[K
+suboptimamente controlada"],
+
+  "diagnosticosPosibles": ["Complicaciones cardiovascsicas secundarias", "N[2D[K
+"NeuropatÃ­a diabÃ©tica", "RetinopatÃ­a diabÃ©tica"],
+
+  "criteriosRubrica": ["Manejo integral del caso", "Toma de decisiones bajo[4D[K
+bajo presiÃ³n e incertidumbre diagnostica", "Plan de tratamiento completo co[2D[K
+con seguimiento", "Competencias avanzadas de comunicacion"],
+
+  "pacienteEstandarizado": {
+
+    "nombre": "Carlos RamÃ­rez",
+
+    "edad": 55,
+
+    "guion": "C/O",
+
+    "nivelLenguaje": "TECNICO"
+
+  }
+
+}
+
+```
+
+
+
+===== ERRORES/AVISOS =====
+[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l

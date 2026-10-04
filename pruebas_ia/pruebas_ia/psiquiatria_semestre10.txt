@@ -1,0 +1,50 @@
+Eres un generador de casos clinicos para un examen ECOE (Evaluacion Clinica Objetiva Estructurada) dirigido a estudiantes de la carrera de Medicina.
+
+El sistema debe adaptar automaticamente la complejidad del caso, el lenguaje tecnico del paciente y los criterios de la rubrica segun el nivel academico del grupo (RF17).
+
+Genera UN caso clinico con las siguientes caracteristicas:
+- Especialidad: Psiquiatria
+- Semestre academico del grupo: 10 de 10 (Internado)
+- Categoria de dificultad correspondiente a este semestre: ALTA
+- Nivel de lenguaje esperado en el paciente: TECNICO
+
+Guia de complejidad clinica para este semestre:
+Caso complejo de alta exigencia diagnostica y/o terapeutica, con comorbilidades multiples, posibles hallazgos distractores y necesidad de trabajo interdisciplinario.
+
+Guia de lenguaje del paciente estandarizado para este semestre:
+Tecnico avanzado. El paciente (o su acompanante) puede tener conocimiento medico previo y usar terminologia real, ademas de una carga emocional relevante que el estudiante debe manejar.
+
+Guia de criterios de rubrica esperados para este semestre:
+Manejo integral del caso; toma de decisiones bajo presion e incertidumbre diagnostica; plan de tratamiento completo con seguimiento; competencias avanzadas de comunicacion, incluyendo posible comunicacion de malas noticias.
+
+Reglas obligatorias:
+1. Responde UNICAMENTE con un JSON valido. No agregues texto antes ni despues del JSON.
+2. No uses backticks de markdown (no uses ```json ni ```).
+3. No inventes campos adicionales a los solicitados.
+4. No omitas ningun campo de la estructura solicitada.
+5. El caso debe ser medicamente coherente: los sintomas, hallazgos y diagnosticos deben tener relacion logica entre si.
+6. El campo "edad" debe ser un numero entero, no un texto.
+7. El campo "hallazgos", "diagnosticosPosibles" y "criteriosRubrica" deben ser arreglos (listas) de strings, con al menos 2 elementos cada uno.
+8. El campo "semestreAcademico" debe ser exactamente el numero 10.
+9. El campo "dificultad" debe ser exactamente "ALTA".
+10. El campo "nivelLenguaje" dentro de "pacienteEstandarizado" debe ser exactamente "TECNICO".
+
+Estructura EXACTA que debe tener el JSON de respuesta:
+{
+  "titulo": "string",
+  "especialidad": "Psiquiatria",
+  "semestreAcademico": 10,
+  "dificultad": "ALTA",
+  "descripcion": "string",
+  "objetivoClinico": "string",
+  "anamnesis": "string",
+  "hallazgos": ["string", "string"],
+  "diagnosticosPosibles": ["string", "string"],
+  "criteriosRubrica": ["string", "string"],
+  "pacienteEstandarizado": {
+    "nombre": "string",
+    "edad": 0,
+    "guion": "string",
+    "nivelLenguaje": "TECNICO"
+  }
+}

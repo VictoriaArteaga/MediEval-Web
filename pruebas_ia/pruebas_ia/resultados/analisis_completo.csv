@@ -1,0 +1,126 @@
+Modelo	CarpetaOrigen	Prompt	TiempoSegundos	JsonValido	TextoExtraFueraJson	CamposFaltantes	CamposExtra	ErrorJson	TituloGenerado	ArchivoOriginal
+llama3.1	llama3.1	cirugia_general_semestre10	170.01	SI	NO				Caso Clínico: Neumonía Pneumónica Posterior a Cirugía	llama3.1/llama3.1_cirugia_general_semestre10.txt
+llama3.1	llama3.1	cirugia_general_semestre2	120.22	SI	NO				Caso Clinico de Obstrucción Intestinal Aguda	llama3.1/llama3.1_cirugia_general_semestre2.txt
+llama3.1	llama3.1	cirugia_general_semestre6	165.48	SI	NO				Caso Clinico: Dolor Abdominal Agudo	llama3.1/llama3.1_cirugia_general_semestre6.txt
+llama3.1	llama3.1	ginecologia_y_obstetricia_semestre10	174.98	SI	NO				Caso de una mujer de 42 años con sangrado vaginal reciente y 	
+"dolor pélvico"""	llama3.1/llama3.1_ginecologia_y_obstetricia_semestre10.txt									
+llama3.1	llama3.1	ginecologia_y_obstetricia_semestre2	116.3	SI	NO				Caso Clinico: Dolor Abdominal	llama3.1/llama3.1_ginecologia_y_obstetricia_semestre2.txt
+llama3.1	llama3.1	ginecologia_y_obstetricia_semestre6	200.93	SI	NO				Caso de mujer con dolores abdominales	llama3.1/llama3.1_ginecologia_y_obstetricia_semestre6.txt
+llama3.1	llama3.1	medicina_interna_semestre10	156.47	SI	NO				Caso de un paciente con síndrome de Cushing	llama3.1/llama3.1_medicina_interna_semestre10.txt
+llama3.1	llama3.1	medicina_interna_semestre2	166.57	SI	NO				Caso Clinico: Dolor Abdominal	llama3.1/llama3.1_medicina_interna_semestre2.txt
+llama3.1	llama3.1	medicina_interna_semestre6	141.1	SI	NO				Caso clinico: Paciente con dolor abdominal y fiebre	llama3.1/llama3.1_medicina_interna_semestre6.txt
+llama3.1	llama3.1	pediatria_semestre10	154.18	SI	NO				Caso de un niño con síndrome de Down y asma	llama3.1/llama3.1_pediatria_semestre10.txt
+llama3.1	llama3.1	pediatria_semestre2	122.63	SI	NO				Caso Clinico: Infeccion de Garganta en un Nino	llama3.1/llama3.1_pediatria_semestre2.txt
+llama3.1	llama3.1	pediatria_semestre6	179.67	SI	NO				Caso de un niño con fiebre recurrente y vómitos	llama3.1/llama3.1_pediatria_semestre6.txt
+llama3.1	llama3.1	psiquiatria_semestre10	176.41	SI	NO	objetivoClinico	objetoClinico		Trastorno de estrés postraumático en un paciente con 	
+"antecedentes de abuso"""	llama3.1/llama3.1_psiquiatria_semestre10.txt									
+llama3.1	llama3.1	psiquiatria_semestre2	126.26	SI	NO				Caso Clinico: Ansiedad en un Joven	llama3.1/llama3.1_psiquiatria_semestre2.txt
+llama3.1	llama3.1	psiquiatria_semestre6	165.6	SI	NO				Caso Clinico: Ansiedad y Depresion en una Joven	llama3.1/llama3.1_psiquiatria_semestre6.txt
+mistral	mastrial	cirugia_general_semestre10	157.31	SI	NO				Cirugía General: Caso Clínico ALTA - Nivel de Lenguaje 	
+"TECNICO"""	mastrial/mistral_cirugia_general_semestre10.txt									
+mistral	mastrial	cirugia_general_semestre2	116.5	SI	NO				Dolor de estómago de un hombre mayor	mastrial/mistral_cirugia_general_semestre2.txt
+mistral	mastrial	cirugia_general_semestre6	125.8	SI	NO				Caso clÃ­nico de Hipotiroidismo subclÃ­nico en un paciente de 45 	
+"aÃ±os"""	mastrial/mistral_cirugia_general_semestre6.txt									
+mistral	mastrial	ginecologia_y_obstetricia_semestre10	176.95	SI	NO				Diagnóstico y tratamiento de un parto prematuro en una 	
+"paciente con hipertensión arterial gestacional"""	mastrial/mistral_ginecologia_y_obstetricia_semestre10.txt									
+mistral	mastrial	ginecologia_y_obstetricia_semestre2	118.82	SI	NO				Primeras fases de la menstruación irregulares	mastrial/mistral_ginecologia_y_obstetricia_semestre2.txt
+mistral	mastrial	ginecologia_y_obstetricia_semestre6	163.19	SI	NO				Diagnóstico y manejo de una amenorrea primaria en una 	
+"adolescente"""	mastrial/mistral_ginecologia_y_obstetricia_semestre6.txt									
+mistral	mastrial	medicina_interna_semestre10	157.65	SI	NO				Enfermedad Pulmonar Intersticial con Comorbilidad Hepática	mastrial/mistral_medicina_interna_semestre10.txt
+mistral	mastrial	medicina_interna_semestre2	116.86	SI	NO				El paciente con dolor de estomago	mastrial/mistral_medicina_interna_semestre2.txt
+mistral	mastrial	medicina_interna_semestre6	165.81	SI	NO				Paciente con sintomas de debilidad y pérdida de peso	mastrial/mistral_medicina_interna_semestre6.txt
+mistral	mastrial	pediatria_semestre10	184.95	SI	NO				Complicaciones del síndrome de Down en una niña de 10 años	mastrial/mistral_pediatria_semestre10.txt
+mistral	mastrial	pediatria_semestre2	110.17	SI	NO				El niño con la tos seca y fiebre	mastrial/mistral_pediatria_semestre2.txt
+mistral	mastrial	pediatria_semestre6	115.34	SI	NO				Presión alta en niño de 7 años	mastrial/mistral_pediatria_semestre6.txt
+mistral	mastrial	psiquiatria_semestre10	137.49	SI	NO				Caso Clínico: Paciente con Trastorno Depresivo Mayor	mastrial/mistral_psiquiatria_semestre10.txt
+mistral	mastrial	psiquiatria_semestre2	160.17	SI	NO				El problema del amigo de Juan	mastrial/mistral_psiquiatria_semestre2.txt
+mistral	mastrial	psiquiatria_semestre6	136.84	SI	NO				Paciente con sintomas de ansiedad y depresión	mastrial/mistral_psiquiatria_semestre6.txt
+medgemma1.5	medgemma1.5	cirugia_general_semestre10	221.15	SI	SI				Caso Clinico Cirugia General - Internado	medgemma1.5/medgemma1.5_cirugia_general_semestre10.txt
+medgemma1.5	medgemma1.5	cirugia_general_semestre2	506.39	NO	SI			Expecting property name enclosed in double quotes: line 2 column 2 (char 3)		medgemma1.5/medgemma1.5_cirugia_general_semestre2.txt
+medgemma1.5	medgemma1.5	cirugia_general_semestre6	539.4	SI	SI				Caso Clinico: Colangitis Aguda	medgemma1.5/medgemma1.5_cirugia_general_semestre6.txt
+medgemma1.5	medgemma1.5	ginecologia_y_obstetricia_semestre10	748.22	SI	SI				Caso Clinico: Embarazo con Hemorragia Ginecolgica Aguda en 	
+"mujer de 35 años"""	medgemma1.5/medgemma1.5_ginecologia_y_obstetricia_semestre10.txt									
+medgemma1.5	medgemma1.5	ginecologia_y_obstetricia_semestre2	236.04	SI	SI				Paciente joven con dolor pélvico	medgemma1.5/medgemma1.5_ginecologia_y_obstetricia_semestre2.txt
+medgemma1.5	medgemma1.5	ginecologia_y_obstetricia_semestre6	95.01	NO	SI			Expecting property name enclosed in double quotes: line 2 column 2 (char 3)		medgemma1.5/medgemma1.5_ginecologia_y_obstetricia_semestre6.txt
+medgemma1.5	medgemma1.5	medicina_interna_semestre10	552.83	SI	SI				Insuficiencia Cardíaca Aguda Descompensada con 	
+"Comorbilidades"""	medgemma1.5/medgemma1.5_medicina_interna_semestre10.txt									
+medgemma1.5	medgemma1.5	medicina_interna_semestre2	284.57	NO	SI			Expecting property name enclosed in double quotes: line 2 column 5 (char 6)		medgemma1.5/medgemma1.5_medicina_interna_semestre2.txt
+medgemma1.5	medgemma1.5	medicina_interna_semestre6	128.5	SI	SI				Evaluacion Clinica Objetiva Estructurada - Caso Clinico 1	medgemma1.5/medgemma1.5_medicina_interna_semestre6.txt
+medgemma1.5	medgemma1.5	pediatria_semestre10	342.7	SI	SI				Caso Clinico: Niño con Tetralogía de Fallot y Displasia E	
+"Ectodérmica"""	medgemma1.5/medgemma1.5_pediatria_semestre10.txt									
+medgemma1.5	medgemma1.5	pediatria_semestre2	260.84	SI	SI				Caso Clínico: Niño con Tos y Mocos	medgemma1.5/medgemma1.5_pediatria_semestre2.txt
+medgemma1.5	medgemma1.5	pediatria_semestre6	341.7	NO	SI			Extra data: line 40 column 1 (char 1395)		medgemma1.5/medgemma1.5_pediatria_semestre6.txt
+medgemma1.5	medgemma1.5	psiquiatria_semestre10	402.25	SI	SI				Caso Clinico: Crisis PsicÃ³tica Aguda con Comorbilidad de 	
+"Trastorno Depresivo Mayor y Ansiedad Generalizada."""	medgemma1.5/medgemma1.5_psiquiatria_semestre10.txt									
+medgemma1.5	medgemma1.5	psiquiatria_semestre2	115.37	SI	SI				Caso Clinico: Alteracion del Estado Animo	medgemma1.5/medgemma1.5_psiquiatria_semestre2.txt
+medgemma1.5	medgemma1.5	psiquiatria_semestre6	214.75	SI	SI				Caso Clinico: Ansiedad Generalizada y Somnolencia	medgemma1.5/medgemma1.5_psiquiatria_semestre6.txt
+medgemma:4b	medgemma_4b	cirugia_general_semestre10	103.07	SI	SI				Paciente con Colangitis Esclerosante con Colecistitis y 	
+"Disnea"""	medgemma_4b/medgemma_4b_cirugia_general_semestre10.txt									
+medgemma:4b	medgemma_4b	cirugia_general_semestre2	34.3	SI	SI				Paciente con dolor abdominal	medgemma_4b/medgemma_4b_cirugia_general_semestre2.txt
+medgemma:4b	medgemma_4b	cirugia_general_semestre6	47.41	SI	SI				Paciente con dolor abdominal y fiebre	medgemma_4b/medgemma_4b_cirugia_general_semestre6.txt
+medgemma:4b	medgemma_4b	ginecologia_y_obstetricia_semestre10	83.92	SI	SI				Paciente con Sangrado Vaginal Persistente y Sospecha de 	
+"Miomas Uterinos"""	medgemma_4b/medgemma_4b_ginecologia_y_obstetricia_semestre10.txt									
+medgemma:4b	medgemma_4b	ginecologia_y_obstetricia_semestre2	37.83	SI	SI				Dolor Abdominal en Mujer	medgemma_4b/medgemma_4b_ginecologia_y_obstetricia_semestre2.txt
+medgemma:4b	medgemma_4b	ginecologia_y_obstetricia_semestre6	54.58	SI	SI				Paciente con dolor abdominal inferior y sangrado uterino	medgemma_4b/medgemma_4b_ginecologia_y_obstetricia_semestre6.txt
+medgemma:4b	medgemma_4b	medicina_interna_semestre10	70.73	SI	SI				Paciente con Insuficiencia Cardíaca Descompensada y H	
+"Hipertensión Arterial no Controlada"""	medgemma_4b/medgemma_4b_medicina_interna_semestre10.txt									
+medgemma:4b	medgemma_4b	medicina_interna_semestre2	53.66	SI	SI				Paciente con Dolor de Cabeza y Fiebre	medgemma_4b/medgemma_4b_medicina_interna_semestre2.txt
+medgemma:4b	medgemma_4b	medicina_interna_semestre6	54.5	SI	SI				Paciente con disnea y tos	medgemma_4b/medgemma_4b_medicina_interna_semestre6.txt
+medgemma:4b	medgemma_4b	pediatria_semestre10	114.45	SI	SI				Paciente con Crisis de Asma Grave y Posible Infección de Vía 	
+"Aérea Superior"""	medgemma_4b/medgemma_4b_pediatria_semestre10.txt									
+medgemma:4b	medgemma_4b	pediatria_semestre2	46.47	SI	SI				Paciente con fiebre y tos	medgemma_4b/medgemma_4b_pediatria_semestre2.txt
+medgemma:4b	medgemma_4b	pediatria_semestre6	3039.28	SI	SI				Niño de 7 años con dolor abdominal y fiebre	medgemma_4b/medgemma_4b_pediatria_semestre6.txt
+medgemma:4b	medgemma_4b	psiquiatria_semestre10	165.8	SI	SI				Paciente con Trastorno de Ansiedad Generalizada, Depresión 	
+"Mayor y Trastorno de Uso de Sustancias"""	medgemma_4b/medgemma_4b_psiquiatria_semestre10.txt									
+medgemma:4b	medgemma_4b	psiquiatria_semestre2	100.03	SI	SI				Paciente con ansiedad y tristeza	medgemma_4b/medgemma_4b_psiquiatria_semestre2.txt
+medgemma:4b	medgemma_4b	psiquiatria_semestre6	195.38	SI	SI				Paciente con Trastorno de Ansiedad Generalizada y Depresión 	
+"Mayor"""	medgemma_4b/medgemma_4b_psiquiatria_semestre6.txt									
+meditron	meditron	cirugia_general_semestre10	215.72	NO	SI			Expecting property name enclosed in double quotes: line 2 column 1 (char 2)		meditron/meditron_cirugia_general_semestre10.txt
+meditron	meditron	cirugia_general_semestre2	45.36	NO	NO			No se encontraron llaves { }		meditron/meditron_cirugia_general_semestre2.txt
+meditron	meditron	cirugia_general_semestre6	22.3	NO	NO			No se encontraron llaves { }		meditron/meditron_cirugia_general_semestre6.txt
+meditron	meditron	ginecologia_y_obstetricia_semestre10	7.12	NO	NO			No se encontraron llaves { }		meditron/meditron_ginecologia_y_obstetricia_semestre10.txt
+meditron	meditron	ginecologia_y_obstetricia_semestre2	27.22	NO	NO			No se encontraron llaves { }		meditron/meditron_ginecologia_y_obstetricia_semestre2.txt
+meditron	meditron	ginecologia_y_obstetricia_semestre6	28.26	NO	NO			No se encontraron llaves { }		meditron/meditron_ginecologia_y_obstetricia_semestre6.txt
+meditron	meditron	medicina_interna_semestre10	61.87	NO	NO			No se encontraron llaves { }		meditron/meditron_medicina_interna_semestre10.txt
+meditron	meditron	medicina_interna_semestre2	55.62	NO	NO			No se encontraron llaves { }		meditron/meditron_medicina_interna_semestre2.txt
+meditron	meditron	medicina_interna_semestre6	25.57	NO	NO			No se encontraron llaves { }		meditron/meditron_medicina_interna_semestre6.txt
+meditron	meditron	pediatria_semestre10	72.67	NO	SI			Expecting property name enclosed in double quotes: line 2 column 2 (char 3)		meditron/meditron_pediatria_semestre10.txt
+meditron	meditron	pediatria_semestre2	319.87	NO	SI			Expecting property name enclosed in double quotes: line 2 column 2 (char 3)		meditron/meditron_pediatria_semestre2.txt
+meditron	meditron	pediatria_semestre6	27.27	NO	NO			No se encontraron llaves { }		meditron/meditron_pediatria_semestre6.txt
+meditron	meditron	psiquiatria_semestre10	226.59	NO	NO			No se encontraron llaves { }		meditron/meditron_psiquiatria_semestre10.txt
+meditron	meditron	psiquiatria_semestre2	93.06	NO	NO			No se encontraron llaves { }		meditron/meditron_psiquiatria_semestre2.txt
+meditron	meditron	psiquiatria_semestre6	16.22	NO	NO			No se encontraron llaves { }		meditron/meditron_psiquiatria_semestre6.txt
+medllama2	medllama2	cirugia_general_semestre10	106.12	NO	NO			No se encontraron llaves { }		medllama2/medllama2_cirugia_general_semestre10.txt
+medllama2	medllama2	cirugia_general_semestre2	8.13	NO	NO			No se encontraron llaves { }		medllama2/medllama2_cirugia_general_semestre2.txt
+medllama2	medllama2	cirugia_general_semestre6	9.13	NO	NO			No se encontraron llaves { }		medllama2/medllama2_cirugia_general_semestre6.txt
+medllama2	medllama2	ginecologia_y_obstetricia_semestre10	9.2	NO	NO			No se encontraron llaves { }		medllama2/medllama2_ginecologia_y_obstetricia_semestre10.txt
+medllama2	medllama2	ginecologia_y_obstetricia_semestre2	14.18	NO	NO			No se encontraron llaves { }		medllama2/medllama2_ginecologia_y_obstetricia_semestre2.txt
+medllama2	medllama2	ginecologia_y_obstetricia_semestre6	56.72	NO	NO			No se encontraron llaves { }		medllama2/medllama2_ginecologia_y_obstetricia_semestre6.txt
+medllama2	medllama2	medicina_interna_semestre10	124.78	SI	SI				Caso de un paciente con dolor abdominal y diarrea	medllama2/medllama2_medicina_interna_semestre10.txt
+medllama2	medllama2	medicina_interna_semestre2	9.17	NO	NO			No se encontraron llaves { }		medllama2/medllama2_medicina_interna_semestre2.txt
+medllama2	medllama2	medicina_interna_semestre6	18.97	NO	NO			No se encontraron llaves { }		medllama2/medllama2_medicina_interna_semestre6.txt
+medllama2	medllama2	pediatria_semestre10	13.2	NO	NO			No se encontraron llaves { }		medllama2/medllama2_pediatria_semestre10.txt
+medllama2	medllama2	pediatria_semestre2	78.06	NO	NO			No se encontraron llaves { }		medllama2/medllama2_pediatria_semestre2.txt
+medllama2	medllama2	pediatria_semestre6	88.44	NO	NO			No se encontraron llaves { }		medllama2/medllama2_pediatria_semestre6.txt
+medllama2	medllama2	psiquiatria_semestre10	28.04	NO	NO			No se encontraron llaves { }		medllama2/medllama2_psiquiatria_semestre10.txt
+medllama2	medllama2	psiquiatria_semestre2	86.73	NO	NO			No se encontraron llaves { }		medllama2/medllama2_psiquiatria_semestre2.txt
+medllama2	medllama2	psiquiatria_semestre6	28.62	NO	NO			No se encontraron llaves { }		medllama2/medllama2_psiquiatria_semestre6.txt
+phi3	phi3	cirugia_general_semestre2	68.5	SI	SI				Congestión Bronquial Aguda en un Paciente de 45 Años	phi3/phi3_cirugia_general_semestre2.txt
+phi3	phi3	cirugia_general_semestre6	137.09	SI	SI				Estudio de caso: Presentación de un paciente con hipertensión 	
+"esencial y obesidad"""	phi3/phi3_cirugia_general_semestre6.txt									
+phi3	phi3	ginecologia_y_obstetricia_semestre10	104.42	SI	SI	hallazgos	he_hall		Caso de Presentación: Endometriosis y miomas con 	
+"Comorbilidades Cardiovasculares y Psicológicas"""	phi3/phi3_ginecologia_y_obstetricia_semestre10.txt									
+phi3	phi3	ginecologia_y_obstetricia_semestre2	83.89	SI	SI				Presentación Clinica de una Paciente con Endometriosis	phi3/phi3_ginecologia_y_obstetricia_semestre2.txt
+phi3	phi3	ginecologia_y_obstetricia_semestre6	108.19	SI	SI				Presentación del Paciente con Presión Arterial Elevada y 	
+"Dismenorrea"""	phi3/phi3_ginecologia_y_obstetricia_semestre6.txt									
+phi3	phi3	medicina_interna_semestre10	120.33	SI	SI	hallazgos	llanzo		Caso del paciente con hipertensión y diabetes mellitus	phi3/phi3_medicina_interna_semestre10.txt
+phi3	phi3	medicina_interna_semestre2	86.87	SI	SI	hallazgos	hallarins		Caso del paciente con fiebre y dolor abdominal	phi3/phi3_medicina_interna_semestre2.txt
+phi3	phi3	medicina_interna_semestre6	106.07	SI	SI		healthHistory, sintomasActuales, examinacionesPrevios, examinacionesRecientes, examinacionesRecomendados, exameninMano		Presentación del caso - Presión arterial alta	phi3/phi3_medicina_interna_semestre6.txt
+phi3	phi3	pediatria_semestre10	80.45	SI	SI				Caso Complejo de Alta Exigencia: Infección Resistente al 	
+"Tratamiento con Comorbilidades Multiomórficas"""	phi3/phi3_pediatria_semestre10.txt									
+phi3	phi3	pediatria_semestre2	290.46	NO	SI			Extra data: line 43 column 1 (char 955)		phi3/phi3_pediatria_semestre2.txt
+phi3	phi3	pediatria_semestre6	141.4	NO	NO			No se encontraron llaves { }		phi3/phi3_pediatria_semestre6.txt
+phi3	phi3	psiquiatria_semestre10	70.22	NO	NO			No se encontraron llaves { }		phi3/phi3_psiquiatria_semestre10.txt
+phi3	phi3	psiquiatria_semestre2	84.44	SI	SI				Apatía	phi3/phi3_psiquiatria_semestre2.txt
+phi3	phi3	psiquiatria_semestre6	94.2	SI	SI				Presentación del caso de Alex Smith	phi3/phi3_psiquiatria_semestre6.txt
+resultados	resultados	real_tiempo		NO	NO			No se encontraron llaves { }		real_tiempo.txt

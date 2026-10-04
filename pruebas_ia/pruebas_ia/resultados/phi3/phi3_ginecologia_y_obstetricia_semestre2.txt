@@ -1,0 +1,57 @@
+﻿MODELO: phi3
+PROMPT: ginecologia_y_obstetricia_semestre2
+TIEMPO (segundos): 83.89
+
+===== RESPUESTA =====
+```json
+
+{
+
+  "titulo": "PresentaciÃ³n Clinica de una Paciente con Endometriosis",
+
+  "especialidad": "Ginecologia y Obstetricia",
+
+  "semestreAcademico": 2,
+
+  "dificultad": "BAJA",
+
+  "descripcion": "La paciente es una mujer de 32 aÃ±os que acude por quejas [K
+de dolor pÃ©lvico en ayunas, que empeora al comienzo del ciclo menstrual.",
+
+  "objetivoClinico": "Toma correcta de signos vitales; anamnesis basica ord[3D[K
+ordenada; identificaciÃ³n de los sÃ­ntomas principales; comunicaciÃ³n clara y [K
+empatica con el paciente.",
+
+  "anamnesis": "AcudiÃ³ por el dolor pÃ©lvico, sin nÃ¡useas ni vÃ³mito, no tomÃ³[4D[K
+tomÃ³ medicamentos recetados, no ha tenido abortos espontÃ¡neos ni cesÃ¡reas p[1D[K
+previas.",
+
+  "hallazgos": ["El paciente estÃ¡ alerta, orientada y con signos vitales no[2D[K
+normales", "Upon pelvic exam, there is discomfort with noted nodularity in [K
+the posterior cul-de-sac"],
+
+  "diagnosticosPosibles": ["Endometriosis", "Adenomyosis"],
+
+  "criteriosRubrica": ["Documentar la frecuen0cia y intensidad del dolor", [K
+"Realizar o radiografÃ­a de la pelvis para confirmaciÃ³n de endometriosis"],
+
+  "pacienteEstandarizado": {
+
+    "nombre": "Maria",
+
+    "edad": 32,
+
+    "guion": "Maria-Gonzalez",
+
+    "nivelLenguaje": "BASICO"
+
+  }
+
+}
+
+```
+
+
+
+===== ERRORES/AVISOS =====
+[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l

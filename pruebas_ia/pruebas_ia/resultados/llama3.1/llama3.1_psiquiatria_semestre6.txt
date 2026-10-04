@@ -1,0 +1,47 @@
+﻿MODELO: llama3.1
+PROMPT: psiquiatria_semestre6
+TIEMPO (segundos): 165.6
+
+===== RESPUESTA =====
+{
+  "titulo": "Caso Clinico: Ansiedad y Depresion en una Joven",
+  "especialidad": "Psiquiatria",
+  "semestreAcademico": 6,
+  "dificultad": "MEDIA",
+  "descripcion": "Una joven de 22 aÃ±os viene a la consulta con sintomas de [K
+ansiedad y depresion. Ha presentado dificultades para dormir y ha aumentado[9D[K
+aumentado su ingesta de alimentos en los ultimos meses.",
+  "objetivoClinico": "Evaluar la causa subyacente de los sintomas de ansied[6D[K
+ansiedad y depresion en la paciente y determinar un plan diagnostico y tera[4D[K
+terapeutico adecuado.",
+  "anamnesis": "La paciente ha tenido antecedentes de ansiedad y depresion [K
+en el pasado y ha estado tomando medicamentos en este sentido. Ha estado es[2D[K
+estudiando en la universidad y ha estado estresada con los examenes.",
+  "hallazgos": [
+    "TensiÃ³n muscular en los hombros y cuello",
+    "Falta de apetito"
+  ],
+  "diagnosticosPosibles": [
+    "Trastorno de Ansiedad Generalizada",
+    "Depresion Mayor",
+    "Trastorno de EstrÃ©s PostraumÃ¡tico"
+  ],
+  "criteriosRubrica": [
+    "Integrar la anamnesis con los hallazgos para formular un diagnostico d[1D[K
+diferencial",
+    "Priorizar el diagnostico de Trastorno de Ansiedad Generalizada",
+    "Solicitar un examen complementario de evaluacion de la depresion"
+  ],
+  "pacienteEstandarizado": {
+    "nombre": "Lucia",
+    "edad": 22,
+    "guion": "Me siento muy estresada y no puedo dormir. Me han dicho que t[1D[K
+tengo la presion alta y no quiero tomar medicamentos.",
+    "nivelLenguaje": "INTERMEDIO"
+  }
+}
+
+
+
+===== ERRORES/AVISOS =====
+[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l

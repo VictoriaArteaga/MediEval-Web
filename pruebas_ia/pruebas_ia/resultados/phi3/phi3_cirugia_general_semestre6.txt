@@ -1,0 +1,84 @@
+﻿MODELO: phi3
+PROMPT: cirugia_general_semestre6
+TIEMPO (segundos): 137.09
+
+===== RESPUESTA =====
+```json
+
+{
+
+  "titulo": "Estudio de caso: PresentaciÃ³n de un paciente con hipertensiÃ³n [K
+esencial y obesidad",
+
+  "especialidad": "Cirugia General",
+
+  "semestreAcademico": 6,
+
+  "dificultad": "MEDIA",
+
+  "descripcion": "Un paciente de 55 aÃ±os se presenta con una historia de hi[2D[K
+hipertensiÃ³n esencial y obesidad, con antecedentes de diabetes tipo 2 no co[2D[K
+controlada y depresiÃ³n leve.",
+
+  "objetivoClinico": "Realizar evaluacion clinica objetiva estructurada par[3D[K
+para determinar el estado de la hipertensio, el control metabolico y la sal[3D[K
+salud mental del paciente, teniendo en cuenta la presencia de comorbilidade[13D[K
+comorbilidades.",
+
+  "anamnesis": "El paciente menciona que los mÃ©dicos anteriormente le dijer[5D[K
+dijeron que tiene la presiÃ³n alta y que estÃ¡ preocupado por su condiciÃ³n. H[1D[K
+Ha estado recientemente diagnosticado con diabetes tipo 2 y depresiÃ³n leve,[5D[K
+leve, y ha estado tomando medicamento para el tratamiento de estos afeccion[8D[K
+afecciones, pero no ha visto una mejora significativa en su salud.",
+
+  "hallazgos": [
+
+    "Presion arterial sistolica de 160 mmHg, diastolica de 100 mmH0, con al[2D[K
+alteraciones en la marcha y fatiga al esforzarse.",
+
+    "Murmorio diastolico audible a la auscultaciÃ³n cardiaca."
+
+  ],
+
+  "diagnosticosPosibles": [
+
+    "Hipertensio esencial con comorbilidades metabolicas.",
+
+    "Hipertensio maligna con posible enfermedad de los vasos sanguinejos.",[14D[K
+sanguinejos.",
+
+    "Hipertensio obesidad y metabolismo alterado."
+
+  ],
+
+  "criteriosRubrica": [
+
+    "Hallazgos objetivos compatibles con la hipertensio.",
+
+    "Anamnesis clÃ­nica indicativa de riesgos para la salud cardiovascular."[16D[K
+cardiovascular.",
+
+    "Preocupaciones del paciente referentes al manejo de su condicion."
+
+  ],
+
+  "pacienteEstandarizado": {
+
+    "nombre": "Juan Perez",
+
+    "edad": 55,
+
+    "guion": "J.P.",
+
+    "nivelLenguaje": "INTERMEDIO"
+
+  }
+
+}
+
+```
+
+
+
+===== ERRORES/AVISOS =====
+[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ § [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¹ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ¼ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ¦ [K[?25h[?2026l[?2026h[?25l[1Gâ  [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l[?2026h[?25l[1Gâ ¸ [K[?25h[?2026l[?2026h[?25l[1Gâ ´ [K[?25h[?2026l[?2026h[?25l[1Gâ ‡ [K[?25h[?2026l[?2026h[?25l[1Gâ ‹ [K[?25h[?2026l[?2026h[?25l[1Gâ ™ [K[?25h[?2026l
