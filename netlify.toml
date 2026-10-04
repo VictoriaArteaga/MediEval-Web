@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/MediEval-Web.html"
+  to = "/"
+  status = 301
